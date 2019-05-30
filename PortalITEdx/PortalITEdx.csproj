@@ -11,12 +11,18 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.8.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="wwwroot\Content\Bootstrap\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PortalITEdx.Domain\PortalITEdx.Domain.csproj" />
+    <ProjectReference Include="..\PortalITEdx.Services\PortalITEdx.Services.csproj" />
   </ItemGroup>
 
 </Project>

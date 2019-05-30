@@ -1,0 +1,9 @@
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.csprojAssemblyReference.cache
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.AssemblyInfoInputs.cache
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.AssemblyInfo.cs
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\bin\Debug\netcoreapp2.2\PortalITEdx.Domain.deps.json
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\bin\Debug\netcoreapp2.2\PortalITEdx.Domain.dll
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\bin\Debug\netcoreapp2.2\PortalITEdx.Domain.pdb
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.dll
+C:\Users\joao.ferreira-aes\source\repos\PortalIT-NetCore\PortalITEdx.Domain\obj\Debug\netcoreapp2.2\PortalITEdx.Domain.pdb
